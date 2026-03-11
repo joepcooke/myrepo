@@ -1,3 +1,2 @@
 # myrepo
-Analysis of the stuff. This is a line from RStudio
-Line added from Github
+This is my repo for learning how to use Git for the tutorial Happy Git with R.
