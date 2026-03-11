@@ -7,8 +7,13 @@ output:
     keep_md: true
 ---
 
-```{r, eval = TRUE}
+
+``` r
 string_test <- "Hello world"
 
 string_test
+```
+
+```
+## [1] "Hello world"
 ```
